@@ -37,6 +37,26 @@
 - 2020 marks the 500th death anniversary of this renaissance artist.
   - Who is Raphael?
 
+# B
+
+## Bonding
+
+### Row 1
+
+- When atoms share their outermost electrons to become bonded
+  - What is a covalent bond?
+
+### Row 2
+
+- Originally discovered during research in World War II, this amazing adhesive can cause chemical burns when it comes into contact with your skin
+  - What is super glue?
+
+### Row 3
+
+### Row 4
+
+### Row 5
+
 # C
 
 ## Capitals of the World
@@ -319,27 +339,27 @@
 
 ### Row 1
 
-- You may have done this to a book and it's a color.
+- You may have done this to a book and it's a color
   - What are read and red?
 
 ### Row 2
 
-- There are three of these words, one of which describes one less than three.
+- There are three of these words, one of which describes one less than three
   - What are to, too, and two?
 
 ### Row 3
 
-- You need balls of this to commit this crime.
+- You need balls of this to commit this crime
   - What are steel and steal?
 
 ### Row 4
 
-- A small fiery insect and your parent's sister.
+- A small fiery insect and your parent's sister
   - What are ant and aunt?
 
 ### Row 5
 
-- To cover with gold, to describe the breathing apparatus of a fish, and a type of professional society.
+- To cover with gold, to describe the breathing apparatus of a fish, and a type of professional society
   - What are gild, gilled, and guild?
 
 # I
@@ -380,22 +400,22 @@
 
 ### Row 2
 
-- At Florida Poly, this club runs Humans vs Zombies.
+- At Florida Poly, this club runs Humans vs Zombies
   - What is Nerf-Tech?
 
 ### Row 3
 
-- Nerf is owned by this toy company.
+- Nerf is owned by this toy company
   - What is Hasbro?
 
 ### Row 4
 
-- Nerf blasters are nerfed with lessened firepower in this country down under.
+- Nerf blasters are nerfed with lessened firepower in this land down under
   - What is Australia?
 
 ### Row 5
 
-- Jordan Gilbert, better known by his screen name is an American CS:GO player.
+- Jordan Gilbert, better known by his screen name is an American CS:GO player
   - Who is n0thing?
 
 # J
@@ -860,25 +880,25 @@
 
 ### Row 1
 
-- Germany's Oktoberfest mainly takes place in this month. 
+- Germany's Oktoberfest mainly takes place in this month
   - What is September?
 
 ### Row 2
 
-- French Fries come from this European country.
+- French Fries come from this European country
   - What is Belgium?
 
 ### Row 3
 
-- The most commonly searched question beginning with "what is" in 2013 was this dance move.
+- The most commonly searched question beginning with "what is" in 2013 was this dance move
   - What is "twerking"?
 
 ### Row 4
 
-- New Zealand's Ninety Mile beach is this long.
+- New Zealand's Ninety Mile beach is this long
   - What is 55 miles long?
 
 ### Row 5
 
-- This quirky Australian mammal has no natural predators and an adorable little grin.
+- This quirky Australian mammal has no natural predators and an adorable little grin
   - What is the quokka?
