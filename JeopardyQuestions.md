@@ -180,27 +180,27 @@
 
 ### Row 1
 
-- No matter where you are in the state, you're never more than 60 miles from this.
+- No matter where you are in the state, you're never more than 60 miles from this
   - What is the ocean?
 
 ### Row 2
 
-- The only place where crocodiles and alligators live together.
+- The only place where crocodiles and alligators live together
   - What is The Everglades?
 
 ### Row 3
 
-- You may not have to pay income tax, but you do have to pay more on this kind of road that Florida has in abundance.
+- You may not have to pay income tax, but you do have to pay more on this kind of road that Florida has in abundance
   - What is a toll road?
 
 ### Row 4
 
-- This county that shares a name with the owners of Walmart holds Britton Hill, Florida's highest peak.
+- This county that shares a name with the owners of Walmart holds Britton Hill, Florida's highest peak
   - What is Walton County?
 
 ### Row 5
 
-- Florida leads the nation with the most number of these storms per area.
+- Florida leads the nation with the most number of these storms per area
   - What is a tornado?
 
 ## Florida Man
@@ -353,7 +353,7 @@
 
 ### Row 2
 
-- Gus can count using this number system, used by computers, and get to 1,023 with just ten fingers
+- Using this number system, used by computers, anyone can count with this system and get to 1,023 with just ten fingers
   - What is binary?
 
 ### Row 3
@@ -584,54 +584,54 @@
 
 ### Row 1
 
-- This University administrator was a professor at North Carolina State University before joining Florida Polytechnic University.
+- This University administrator was a professor at North Carolina State University before joining Florida Polytechnic University
   - Who is Randy Avent?
 
 ### Row 2
 
-- A fan of TLAs, the university adopted this acronym for its main building.
+- A fan of TLAs, the university adopted this acronym for its main building
   - What is IST?
 
 ### Row 3
 
-- As of January 2020, Poly has this many undergraduate degrees.
-  - What is nine?
+- As of July 2021, Poly has this many undergraduate degrees
+  - What is ten?
 
 ### Row 4
 
-- Instead of spelling bees, the math club holds these.
+- Instead of spelling bees, the math club holds these
   - What are integral and derivative bees?
 
 ### Row 5
 
-- While under construction in 2014, Florida Poly was featured in a commercial for this American truck manufacturer.
+- While under construction in 2014, Florida Poly was featured in a commercial for this American truck manufacturer
   - What is RAM/Fiat Chrysler?
 
 ## Poly 2.0
 
 ### Row 1
 
-- The first building in the Poly 2.0 plan that is already under construction.
+- The first building in the Poly 2.0 plan that is already under construction
   - What is the ARC (Applied Research Center)?
 
 ### Row 2
 
-- Poly plans to grow to about this many students over the next few years.
+- Poly plans to grow to about this many students over the next few years
   - What is 5000?
 
 ### Row 3
 
-- Poly 2.0 is the name of the plan to develop this kind of park on or near campus.
+- Poly 2.0 is the name of the plan to develop this kind of park on or near campus
   - What is research?
 
 ### Row 4
 
-- Taking steps to build its transportation program, Poly founded this advanced institute.
+- Taking steps to build its transportation program, Poly founded this advanced institute
   - What is the Advanced Mobility Institute?
 
 ### Row 5
 
-- The plan for Poly 2.0 includes 16 goals and a new one of these for the University.
+- The plan for Poly 2.0 includes 16 goals and a new one of these for the University
   - What is a mission?
 
 ## Prickly Things
@@ -777,27 +777,27 @@
 
 ### Row 1
 
-- Just like its namesake, this Disney attraction is Animal Kingdom's tallest ride.
+- Just like its namesake, this Disney attraction is Animal Kingdom's tallest ride
   - What is Expedition Everest?
 
 ### Row 2
 
-- Children ages 6-13 can earn a driver's license through the Ford Driving School in this park.
+- Children ages 6-13 can earn a driver's license through the Ford Driving School in this park
   - What is Legoland?
 
 ### Row 3
 
-- Believe it or not, EPCOT is an acronym for this.
+- Believe it or not, EPCOT is an acronym for this
   - What is Experimental Prototype Community of Tomorrow?
 
 ### Row 4
 
-- The construction of Disney's Art of Animation resort was delayed nearly a decade due to this national tragedy.
+- The construction of Disney's Art of Animation resort was delayed nearly a decade due to this national tragedy
   - What is 9/11?
 
 ### Row 5
 
-- This child-sized metropolis has been replaced by a sprawling Forever 21 and other shops in the Sawgrass Mills mall.
+- This child-sized metropolis has been replaced by a sprawling Forever 21 and other shops in the Sawgrass Mills mall
   - What is Wannado City?
 
 ## TikTok
